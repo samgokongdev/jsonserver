@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "harga": 15000,
+      "kemasan": "Botol 200ml",
+      "imageLink" : "/thaitea.jpg"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
